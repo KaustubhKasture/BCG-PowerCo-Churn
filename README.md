@@ -1,1 +1,1 @@
-"# BCG-PowerCo-Churn" 
+# BCG-PowerCo-Churn
