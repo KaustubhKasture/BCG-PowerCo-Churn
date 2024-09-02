@@ -25,17 +25,17 @@ However, the main objective of this project is to test the hypothesis that price
 
 ### Modeling and Observations
 
-Using RandomForrest Classifier has given below results:
-True positives: 20
-False positives: 4
-True negatives: 3282
+Using RandomForrestClassifier has given below results: \
+True positives: 20 \
+False positives: 4 \
+True negatives: 3282 \
 False negatives: 346
 
-Accuracy: 0.9041621029572837(90%)
-Precision: 0.8333333333333334
+Accuracy: 0.9041621029572837(90%) \
+Precision: 0.8333333333333334 \
 Recall: 0.0546448087431694
 
-**Note**:Scores can varry a little after each execution cycle of code.
+**Note**:Scores can varry a little, after each execution cycle of code.
 
 Although the model's accuracy is good at predicting true negatives, the overall accuracy for true positives is poor due to a class imbalance in the churn feature. However, this model allows us to address our main hypothesis through the important_features_ factor.
 
